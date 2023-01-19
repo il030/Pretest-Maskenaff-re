@@ -1,10 +1,8 @@
 from,to,relationship
-Lomotex,,
 lo,gn,2
 gn,as,1
 as,gn,1
 js,lo,2
-Emix,,
 mh,mhu,3
 mh,at,3
 mh,js,3
